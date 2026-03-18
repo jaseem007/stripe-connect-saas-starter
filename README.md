@@ -62,7 +62,7 @@ Creator monetization apps
 
 📸 Demo / Screenshots
 
-👉 (Add screenshots or GIFs here)
+👉 
 
 🧠 Why I Built This
 
